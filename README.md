@@ -1,7 +1,7 @@
-### Hi, I'm Gabriel and studying to become a Backend Developer!
+### Backend Developer with experience in API's envolving Banking Services!
 
-- I’m currently learning Javascript and Node.js;
-- Databases that I usually work with: MongoDB;
+- Techonologies: Javascript, Node.js;
+- Databases: MongoDB;
 
 <div style="display: inline_block">
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
