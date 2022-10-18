@@ -1,4 +1,4 @@
-### Backend Developer with experience in API's envolving Banking Services!
+### Backend Developer with experience in API's involving Banking Services!
 
 - Techonologies: Javascript, Node.js;
 - Databases: MongoDB;
