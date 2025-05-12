@@ -2,7 +2,7 @@
 
 #### Started my career developing and maintaining financial/banking RESTFul APIs using Node.js, JavaScript with MongoDB and Mongoose ODM.
 
-#### Currently working with .NET and gRPC developing and updating RESTFul APIs with Microservices Architeture for companies in different sectors, improving control and protagonism in their commercial relationships. The database used is SQL with EF (Entity Framework ORM).
+#### In my most recent experience I worked with .NET and gRPC developing and updating RESTFul APIs with Microservices Architeture for companies in different sectors, improving control and protagonism in their commercial relationships. The database used is SQL with EF (Entity Framework ORM).
 
 <br>
 
